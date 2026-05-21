@@ -5,6 +5,8 @@ Mako:SKP
 PyQt-builder:SKP
 PyQt5:SKP
 PyQt5_sip:SKP
+PyQt6:SKP
+PyQt6_sip:SKP
 QScintilla:SKP
 SDL2:SKP
 SDL2_gfx:SKP
@@ -13,6 +15,7 @@ SDL2_mixer:SKP
 SDL2_net:SKP
 SDL2_ttf:SKP
 SDL3:SKP
+SDL3_ttf:SKP
 a52dec:SKP
 aalib:SKP
 abseil-cpp:SKP
