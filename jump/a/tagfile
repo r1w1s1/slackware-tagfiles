@@ -3,6 +3,7 @@ aaa_glibc-solibs:ADD
 aaa_libraries:ADD
 aaa_terminfo:ADD
 acl:ADD
+acpi:SKP
 acpid:SKP
 attr:ADD
 bash:ADD
