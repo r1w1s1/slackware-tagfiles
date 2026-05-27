@@ -326,7 +326,6 @@ opencv:SKP
 openexr:SKP
 openjpeg:SKP
 openjph:SKP
-openjph:SKP
 opensc:SKP
 opus:SKP
 opusfile:SKP
@@ -350,6 +349,7 @@ polkit-qt-1:SKP
 poppler:SKP
 poppler-data:SKP
 popt:SKP
+potrace:SKP
 protobuf:SKP
 pulseaudio:SKP
 pycairo:SKP
@@ -362,8 +362,8 @@ python-MarkupSafe:SKP
 python-PyYAML:SKP
 python-accessible-pygments:SKP
 python-alabaster:SKP
-python-attrs:SKP
 python-appdirs:SKP
+python-attrs:SKP
 python-babel:SKP
 python-build:SKP
 python-calver:SKP
