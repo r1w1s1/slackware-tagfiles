@@ -178,6 +178,7 @@ libcacard:SKP
 libcanberra:SKP
 libcap:SKP
 libcap-ng:SKP
+libcbor:ADD
 libcddb:SKP
 libcdio:SKP
 libcdio-paranoia:SKP
@@ -198,6 +199,7 @@ libevent:ADD
 libexif:SKP
 libfakekey:SKP
 libffi:SKP
+libfido2:ADD
 libfyaml:SKP
 libglade:SKP
 libgnome-keyring:SKP
