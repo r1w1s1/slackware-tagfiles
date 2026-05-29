@@ -223,6 +223,7 @@ xcursor-themes:SKP
 xcursorgen:SKP
 xdbedizzy:SKP
 xdg-desktop-portal:SKP
+xdg-desktop-portal-gtk:SKP
 xdg-user-dirs:SKP
 xdg-utils:SKP
 xditview:SKP
@@ -251,7 +252,6 @@ xf86-video-s3virge:SKP
 xf86-video-savage:SKP
 xf86-video-trident:SKP
 xf86-video-vesa:SKP
-xf86-video-vmware:SKP
 xf86dga:SKP
 xfd:SKP
 xfontsel:SKP
