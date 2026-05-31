@@ -113,6 +113,7 @@ obexftp:SKP
 openldap:SKP
 openobex:SKP
 openresolv:SKP
+openrsync:SKP
 openssh:ADD
 openssl:ADD
 openvpn:SKP
