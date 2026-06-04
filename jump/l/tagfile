@@ -7,7 +7,6 @@ PyQt5:SKP
 PyQt5_sip:SKP
 PyQt6:SKP
 PyQt6_sip:SKP
-QScintilla:SKP
 SDL2:SKP
 SDL2_gfx:SKP
 SDL2_image:SKP
