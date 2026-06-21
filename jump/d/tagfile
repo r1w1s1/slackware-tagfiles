@@ -13,10 +13,12 @@ check:SKP
 clinfo:SKP
 clisp:SKP
 cmake:SKP
+corrosion:SKP
 cscope:SKP
 cvs:SKP
 dev86:SKP
 distcc:SKP
+dkms:SKP
 doxygen:SKP
 flex:SKP
 gcc:SKP
@@ -80,6 +82,7 @@ rust-bindgen:SKP
 sassc:SKP
 scons:SKP
 slacktrack:SKP
+stb:SKP
 strace:SKP
 subversion:SKP
 swig:SKP

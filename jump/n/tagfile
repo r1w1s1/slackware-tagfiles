@@ -32,6 +32,7 @@ gnupg2:ADD
 gnutls:ADD
 gpa:SKP
 gpgme:SKP
+gpgmepp:SKP
 htdig:SKP
 httpd:SKP
 icmpinfo:ADD
@@ -145,6 +146,7 @@ tcp_wrappers:SKP
 tcpdump:SKP
 telnet:ADD
 tftp-hpa:SKP
+timedated:SKP
 tin:SKP
 traceroute:SKP
 ulogd:SKP

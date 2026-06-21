@@ -67,7 +67,7 @@ duktape:SKP
 dvdauthor:SKP
 ebook-tools:SKP
 editorconfig-core-c:SKP
-eigen3:SKP
+eigen:SKP
 elfutils:ADD
 enchant:SKP
 esound:SKP
@@ -80,6 +80,7 @@ ffmpeg:SKP
 fftw:SKP
 fluidsynth:SKP
 fmt:SKP
+fprintd:SKP
 freecell-solver:SKP
 freetype:SKP
 frei0r-plugins:SKP
@@ -162,6 +163,8 @@ lame:SKP
 lcms:SKP
 lcms2:SKP
 lensfun:SKP
+leptonica:SKP
+libQuotient:SKP
 libadwaita:SKP
 libaio:SKP
 libao:SKP
@@ -199,6 +202,7 @@ libexif:SKP
 libfakekey:SKP
 libffi:SKP
 libfido2:ADD
+libfprint:SKP
 libfyaml:SKP
 libglade:SKP
 libgnome-keyring:SKP
@@ -222,6 +226,7 @@ libiodbc:SKP
 libjpeg-turbo:SKP
 libkarma:SKP
 libmad:SKP
+libmaxminddb:SKP
 libmcrypt:SKP
 libmng:SKP
 libmpc:SKP
@@ -320,6 +325,7 @@ newt:SKP
 nlohmann-json:SKP
 nodejs:SKP
 ocl-icd:SKP
+olm:SKP
 oniguruma:ADD
 openal-soft:SKP
 openblas:SKP
@@ -328,6 +334,7 @@ openexr:SKP
 openjpeg:SKP
 openjph:SKP
 opensc:SKP
+opentimelineio:SKP
 opus:SKP
 opusfile:SKP
 orc:SKP
@@ -432,7 +439,9 @@ qt5:SKP
 qt6:SKP
 qtkeychain:SKP
 quazip:SKP
+range-v3:SKP
 readline:SKP
+readstat:SKP
 rpcsvc-proto:SKP
 rttr:SKP
 rubygem-asciidoctor:SKP
@@ -448,6 +457,7 @@ slang:SKP
 slang1:SKP
 sof-firmware:SKP
 sound-theme-freedesktop:SKP
+spdlog:SKP
 speech-dispatcher:SKP
 speex:SKP
 speexdsp:SKP
@@ -462,6 +472,7 @@ talloc:SKP
 tango-icon-theme:SKP
 tango-icon-theme-extras:SKP
 tdb:SKP
+tesseract:SKP
 tevent:SKP
 tidy-html5:SKP
 unicode-ucd:SKP
@@ -476,6 +487,7 @@ wireplumber:SKP
 woff2:SKP
 xapian-core:SKP
 xxHash:SKP
+zint:SKP
 zlib:SKP
 zstd:SKP
 zug:SKP
