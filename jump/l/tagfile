@@ -226,7 +226,7 @@ libiodbc:SKP
 libjpeg-turbo:SKP
 libkarma:SKP
 libmad:SKP
-libmaxminddb:SKP
+libmaxminddb:ADD
 libmcrypt:SKP
 libmng:SKP
 libmpc:SKP
