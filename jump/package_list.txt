@@ -125,6 +125,7 @@ l/libcbor
 l/libedit
 l/libevent
 l/libfido2
+l/libmaxminddb
 l/libnvme
 l/libseccomp
 l/libuv

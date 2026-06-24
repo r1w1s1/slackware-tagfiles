@@ -184,6 +184,7 @@ libcbor:ADD
 libcddb:SKP
 libcdio:SKP
 libcdio-paranoia:SKP
+libcec:SKP
 libclc:SKP
 libcue:SKP
 libcupsfilters:SKP
@@ -338,6 +339,7 @@ opentimelineio:SKP
 opus:SKP
 opusfile:SKP
 orc:SKP
+p8-platform:SKP
 pango:SKP
 pangomm:SKP
 pangomm2:SKP

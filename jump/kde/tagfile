@@ -424,12 +424,14 @@ pim-sieve-editor:SKP
 pimcommon:SKP
 plasma-activities:SKP
 plasma-activities-stats:SKP
+plasma-bigscreen:SKP
 plasma-browser-integration:SKP
 plasma-desktop:SKP
 plasma-disks:SKP
 plasma-firewall:SKP
 plasma-framework5:SKP
 plasma-integration:SKP
+plasma-nano:SKP
 plasma-nm:SKP
 plasma-pa:SKP
 plasma-sdk:SKP
