@@ -59,6 +59,7 @@ dbus-glib:SKP
 dbus-python:SKP
 dconf:SKP
 dconf-editor:SKP
+ddcutil:SKP
 desktop-file-utils:SKP
 djvulibre:SKP
 dotconf:SKP
