@@ -445,6 +445,7 @@ quazip:SKP
 range-v3:SKP
 readline:SKP
 readstat:SKP
+rnnoise:SKP
 rpcsvc-proto:SKP
 rttr:SKP
 rubygem-asciidoctor:SKP
