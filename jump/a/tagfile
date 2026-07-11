@@ -111,6 +111,7 @@ sysvinit-functions:SKP
 sysvinit-scripts:ADD
 tar:ADD
 tcsh:SKP
+thin-provisioning-tools:SKP
 time:ADD
 tree:ADD
 udisks2:SKP
