@@ -409,6 +409,7 @@ python-pbr:SKP
 python-pillow:SKP
 python-pluggy:SKP
 python-ply:SKP
+python-poetry-core:SKP
 python-psutil:SKP
 python-pybind11:SKP
 python-pycparser:SKP
@@ -429,6 +430,7 @@ python-snowballstemmer:SKP
 python-sphinx:SKP
 python-sphinx_rtd_theme:SKP
 python-tomli-w:SKP
+python-tomlkit:SKP
 python-trove-classifiers:SKP
 python-typogrify:SKP
 python-urllib3:SKP
