@@ -17,7 +17,6 @@ curl:ADD
 cyrus-sasl:ADD
 daemon:SKP
 dehydrated:SKP
-dhcp:SKP
 dhcpcd:ADD
 dnsmasq:SKP
 dovecot:SKP
@@ -47,6 +46,7 @@ ipw2100-fw:SKP
 ipw2200-fw:SKP
 irssi:SKP
 iw:SKP
+kea:SKP
 krb5:SKP
 lftp:SKP
 libassuan:ADD

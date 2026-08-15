@@ -306,6 +306,7 @@ libxslt:SKP
 libyaml:SKP
 libzip:SKP
 lmdb:ADD
+log4cplus:SKP
 loudmouth:SKP
 luajit-lgi:SKP
 lz4:SKP
