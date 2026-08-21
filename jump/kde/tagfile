@@ -17,6 +17,7 @@ ark:SKP
 artikulate:SKP
 attica:SKP
 attica5:SKP
+aubio:SKP
 audex:SKP
 audiocd-kio:SKP
 aurorae:SKP
@@ -166,9 +167,11 @@ kdnssd:SKP
 kdnssd5:SKP
 kdoctools:SKP
 kdoctools5:SKP
+kdominate:SKP
 kdsingleapplication:SKP
 kdsoap-ws-discovery-client:SKP
 keditbookmarks:SKP
+keepsecret:SKP
 kemoticons5:SKP
 keysmith:SKP
 kfilemetadata:SKP
