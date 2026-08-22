@@ -217,6 +217,7 @@ kio:SKP
 kio-admin:SKP
 kio-extras:SKP
 kio-gdrive:SKP
+kio-snapshot:SKP
 kio-zeroconf:SKP
 kio5:SKP
 kirigami:SKP
