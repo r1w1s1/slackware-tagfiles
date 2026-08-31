@@ -140,6 +140,7 @@ gtkspell:SKP
 gvfs:SKP
 harfbuzz:SKP
 hicolor-icon-theme:SKP
+highway:SKP
 hunspell:SKP
 hyphen:SKP
 icon-naming-utils:SKP
@@ -226,6 +227,7 @@ libimobiledevice-glue:SKP
 libindicator:SKP
 libiodbc:SKP
 libjpeg-turbo:SKP
+libjxl:SKP
 libkarma:SKP
 libmad:SKP
 libmaxminddb:ADD
