@@ -23,6 +23,7 @@ dvd+rw-tools:SKP
 enscript:SKP
 flac:SKP
 fwupd:SKP
+fwupd-efi:SKP
 ghostscript:SKP
 ghostscript-fonts-std:SKP
 gphoto2:SKP

@@ -15,7 +15,6 @@ geeqie:SKP
 gftp:SKP
 gimp:SKP
 gkrellm:SKP
-glaxnimate:SKP
 gnuchess:SKP
 gnuplot:SKP
 gparted:SKP
@@ -53,3 +52,4 @@ xpdf:SKP
 xsane:SKP
 xscreensaver:SKP
 xsnow:SKP
+zenity:SKP
