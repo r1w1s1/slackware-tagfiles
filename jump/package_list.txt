@@ -95,6 +95,7 @@ a/xz
 ap/diffstat
 ap/diffutils
 ap/dmidecode
+ap/fonts-uw-ttyp0
 ap/groff
 ap/htop
 ap/libx86
@@ -103,6 +104,7 @@ ap/man-db
 ap/man-pages
 ap/mc
 ap/slackpkg
+ap/spleen
 ap/sqlite
 ap/sudo
 ap/terminus-font

@@ -2,6 +2,7 @@ OpenCC:SKP
 adwaita-fonts-ttf:SKP
 anthy-unicode:SKP
 appres:SKP
+bdf2psf:SKP
 bdftopcf:SKP
 beforelight:SKP
 bitmap:SKP
@@ -167,8 +168,8 @@ motif:SKP
 mtdev:SKP
 mypaint-brushes:SKP
 noto-cjk-fonts-ttf:SKP
-noto-fonts-ttf:SKP
 noto-emoji:SKP
+noto-fonts-ttf:SKP
 oclock:SKP
 pixman:SKP
 pyxdg:SKP
@@ -240,6 +241,7 @@ xf86-input-vmmouse:SKP
 xf86-input-wacom:SKP
 xf86-video-amdgpu:SKP
 xf86-video-ati:SKP
+xf86-video-cirrus:SKP
 xf86-video-dummy:SKP
 xf86-video-intel:SKP
 xf86-video-mach64:SKP
