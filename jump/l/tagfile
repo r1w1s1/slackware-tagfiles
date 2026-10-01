@@ -275,6 +275,7 @@ libspectre:SKP
 libssh:SKP
 libssh2:SKP
 libtasn1:SKP
+libtatsu:SKP
 libtheora:SKP
 libtiff:SKP
 libtraceevent:SKP
@@ -351,6 +352,7 @@ pcaudiolib:SKP
 pcre:ADD
 pcre2:ADD
 pcsc-lite:SKP
+pdfio:SKP
 phonon:SKP
 phonon-backend-gstreamer:SKP
 phonon-backend-mpv:SKP
