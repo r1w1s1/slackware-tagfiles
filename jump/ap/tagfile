@@ -21,6 +21,7 @@ dmapi:SKP
 dmidecode:ADD
 dvd+rw-tools:SKP
 enscript:SKP
+f3:SKP
 flac:SKP
 fonts-uw-ttyp0:ADD
 fwupd:SKP
