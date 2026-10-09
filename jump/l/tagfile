@@ -88,7 +88,7 @@ frei0r-plugins:SKP
 fribidi:SKP
 fuse:SKP
 fuse3:SKP
-gc:SKP
+gc:ADD
 gcr:SKP
 gcr4:SKP
 gd:SKP

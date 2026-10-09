@@ -38,7 +38,7 @@ gnucobol:SKP
 google-go-lang:SKP
 googletest:SKP
 gperf:SKP
-guile:SKP
+guile:ADD
 gyp:SKP
 help2man:SKP
 icecream:SKP
@@ -52,7 +52,7 @@ llvm:SKP
 lua:SKP
 luajit:SKP
 m4:SKP
-make:SKP
+make:ADD
 mercurial:SKP
 meson:SKP
 mold:SKP
