@@ -112,11 +112,14 @@ ap/texinfo
 ap/xmltoman
 d/binutils
 d/git
+d/guile
+d/make
 d/perl
 d/python-pip
 d/python3
 l/brotli
 l/elfutils
+l/gc
 l/glib2
 l/glibc
 l/glibc-i18n
