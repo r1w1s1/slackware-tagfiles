@@ -206,6 +206,7 @@ libffi:SKP
 libfido2:ADD
 libfprint:SKP
 libfyaml:SKP
+libgit2:SKP
 libglade:SKP
 libgnome-keyring:SKP
 libgnt:SKP
