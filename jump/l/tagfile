@@ -37,6 +37,7 @@ atkmm2:SKP
 audiofile:SKP
 avahi:SKP
 babl:SKP
+blake3:SKP
 boost:SKP
 brotli:ADD
 bstring:SKP
@@ -289,6 +290,7 @@ libusb:SKP
 libusb-compat:SKP
 libusbmuxd:SKP
 libuv:ADD
+libvips:SKP
 libvisio:SKP
 libvisual:SKP
 libvisual-plugins:SKP
