@@ -59,6 +59,7 @@ kbd:ADD
 kernel-firmware:ADD
 kernel-generic:ADD
 kmod:ADD
+kmscon:SKP
 lbzip2:ADD
 less:ADD
 lhasa:SKP
@@ -67,6 +68,7 @@ libbytesize:ADD
 libcgroup:ADD
 libgudev:ADD
 libpwquality:ADD
+libtsm:SKP
 lilo:SKP
 logrotate:ADD
 lrzip:SKP
