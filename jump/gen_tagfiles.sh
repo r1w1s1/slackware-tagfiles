@@ -12,14 +12,19 @@ set -eu
 
 SCRIPT_DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
 PACKAGE_LIST=${PACKAGE_LIST:-"$SCRIPT_DIR/package_list.txt"}
-SOURCE_TREE=${1:-${SLACKWARE_TREE:-}}
+SLACKWARE_TREE=${SLACKWARE_TREE:-/home/r1w1s1/slackware-mirrors/slackware/slackware64-current/slackware64}
+SOURCE_TREE=${1:-$SLACKWARE_TREE}
 OUTPUT_DIR=${2:-"$SCRIPT_DIR"}
 
 usage() {
     echo "Usage: $0 SLACKWARE_TREE [OUTPUT_DIR]" >&2
     echo "Example: $0 /home/user/slackware64-current/slackware64" >&2
-    exit 1
+    exit "${1:-1}"
 }
+
+case "${1:-}" in
+    -h|--help) usage 0 ;;
+esac
 
 [ -n "$SOURCE_TREE" ] || usage
 [ -f "$PACKAGE_LIST" ] || {

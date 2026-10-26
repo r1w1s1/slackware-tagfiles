@@ -20,8 +20,13 @@ Generate the complete tagfiles from a Slackware package tree with:
 
 ```sh
 cd jump
-./gen_tagfiles.sh /path/to/slackware64-current/slackware64
+./gen_tagfiles.sh
 ```
+
+The default Slackware tree is
+`/home/r1w1s1/slackware-mirrors/slackware/slackware64-current/slackware64`.
+Use a different tree by passing it as the first argument or by setting
+`SLACKWARE_TREE`.
 
 Packages present in `package_list.txt` become `ADD`; all other packages found
 in the Slackware tree become `SKP`.  The generated tagfiles remain in `jump/`
