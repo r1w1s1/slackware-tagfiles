@@ -1,6 +1,8 @@
 # Slackware Tagfiles
 
-Package selections for building a smaller Slackware jump VM.
+Package selections for building a smaller Slackware jump VM using the
+`global_tagfile` support available in Slackware-current and future Slackware
+releases that include this feature.
 
 ## Global tagfile
 
@@ -42,18 +44,23 @@ unchanged.
 
 Choose `full` or `terse` in the installer when using the global tagfile.
 
-## Generate per-series tagfiles
+## Compatibility with older installers
 
-The project can also generate traditional per-series tagfiles from the same
-selection:
+Slackware-current supports `global_tagfile` directly. Older Slackware
+installers, including the Slackware 15.0 installer, do not support it and
+require traditional per-series tagfiles.
+
+The project can generate those legacy tagfiles from the same selection when
+needed:
 
 ```sh
 cd jump
 ./gen_tagfiles.sh /path/to/slackware64-current/slackware64
 ```
 
-Package versions are not included, so the selection remains valid across
-Slackware updates.
+The generated files are compatibility output and are not kept in the
+repository. Package versions are not included, so the selection remains valid
+across Slackware updates.
 
 ## Build a custom ISO
 
@@ -67,7 +74,7 @@ cp jump/global_tagfile \
 ISOONLY=yes /path/to/mirror-slackware-current-rsync.sh -i -o DVD
 ```
 
-The installer image must contain global tagfile support. Current Slackware
+The installer image must contain global tagfile support. Slackware-current
 installer images include this support. The official documentation is available
 at:
 
